@@ -87,6 +87,7 @@ body {
 /*Rules for content:*/
 
 .logo {
+    text-align: center;
     grid-area: logo;
     background-size: auto;
 }
